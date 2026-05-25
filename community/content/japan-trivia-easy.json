@@ -230,5 +230,11 @@
     "difficulty": "easy",
     "answers": ["Kyoto", "Tokyo", "Sapporo", "Fukuoka"],
     "correctIndex": 0
-  }
+  } , 
+  {
+  "question": "What is the Japanese term for a Buddhist temple?",
+  "difficulty": "easy",
+  "answers": ["Otera","Jinja", "Torii","Goshuin"],
+  "correctIndex": 0
+}
 ]
